@@ -81,3 +81,6 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python) | University of Michigan | 7 weeks | 2-4 hours/week | 2 weeks | None
 [Python Data Structures](https://www.coursera.org/learn/python-data) | University of Michigan | 7 weeks | 2-4 hours/week | 2 weeks | Programming for Everybody (Getting Started with Python)
+[Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data) | University of Michigan | 6 weeks | 2-4 hours/week | 2 weeks |Python Data Structures
+[Using Databases with Python](https://www.coursera.org/learn/python-databases) | University of Michigan | 5 weeks | 2-3 hours/week | 2 weeks | Using Python to Access Web Data
+[]

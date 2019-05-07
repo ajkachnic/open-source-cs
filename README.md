@@ -74,3 +74,4 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Build Web Applications In PHP](https://www.coursera.org/learn/web-applications-php) | University of Michigan | 8 weeks | 8-10 hours/week | 2 weeks | HTML and CSS
+[Building Database Applications in PHP](https://www.coursera.org/learn/database-applications-php) | University of Michigan |5 weeks | 8-10 hours/week | 2 weeks | Build Web Applications In PHP
